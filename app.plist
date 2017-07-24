@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://127.77.144.6/jxqpt/jxlobby.ipa</string>
+					<string>http://127.77.144.6:8080/jxqpt/jxlobby.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
