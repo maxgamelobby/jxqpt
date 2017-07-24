@@ -26,6 +26,15 @@
 				<key>title</key>
 				<string>jxlobby.ipa</string>
 			</dict>
+
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://127.77.144.6:8080/jxqpt/pic_icon.png</string>
+               </dict>
 		</dict>
 	</array>
 </dict>
